@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-getent hosts localhost
+getent hosts $1
